@@ -1,4 +1,4 @@
-module github.com/bsm/redislock
+module github.com/ChecaLai/redislock
 
 require (
 	github.com/go-redis/redis/v8 v8.0.0-beta.2
@@ -7,4 +7,4 @@ require (
 	go.opentelemetry.io/otel v0.6.0 // indirect
 )
 
-go 1.13
+go 1.14
