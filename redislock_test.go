@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bsm/redislock"
+	"github.com/ChecaLai/redislock"
 	"github.com/go-redis/redis/v8"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

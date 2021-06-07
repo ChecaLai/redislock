@@ -1,10 +1,9 @@
 module github.com/ChecaLai/redislock
 
 require (
-	github.com/go-redis/redis/v8 v8.0.0-beta.2
-	github.com/onsi/ginkgo v1.10.1
-	github.com/onsi/gomega v1.7.0
-	go.opentelemetry.io/otel v0.6.0 // indirect
+	github.com/go-redis/redis/v8 v8.10.0
+	github.com/onsi/ginkgo v1.15.0
+	github.com/onsi/gomega v1.10.5
 )
 
-go 1.14
+go 1.16

@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/bsm/redislock"
+	"github.com/ChecaLai/redislock"
 	"github.com/go-redis/redis/v8"
 )
 
